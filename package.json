@@ -1,0 +1,22 @@
+{
+  "name": "your-bot-name",
+  "version": "0.0.1",
+  "description": "Your Bot Description goes here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeveloperVulpo/NukeJS-Template.git"
+  },
+  "author": "Your Name Goes Here",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeveloperVulpo/NukeJS-Template/issues"
+  },
+  "homepage": "https://github.com/DeveloperVulpo/NukeJS-Template#readme",
+  "dependencies": {
+    "nukejs": "^2.6.2"
+  }
+}
